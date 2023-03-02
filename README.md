@@ -2,7 +2,7 @@ Oá!!! Eu sou o Vinícius Figueiredo 👋
 
 
 - 🔭 Atualmente estou em busca de uma oportunidade de estágio na área da Tecnologia da Informação
-- 🌱 Estou estudando HTML, CSS, JS
+- 🌱 Estou estudando HTML, CSS e JS
 - 👯 Estou procurando colaboorar em projetos e desafios de uma empresa
 - 🤔 Estou procurando ajuda para conseguir um estágio
 - 📫 viniciuscruzcontato@gmail.com
@@ -19,9 +19,10 @@ Oá!!! Eu sou o Vinícius Figueiredo 👋
   <img align="center" alt="Viní-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Viní-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Viní-JSavascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Viní-JSavascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />             
-  <img align="center" alt="Viní-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
+  <img align="center" alt="Viní-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />             
+  <img align="center" alt="Viní-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Viní-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+                 
                   
           
 </div>
