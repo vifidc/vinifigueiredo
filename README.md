@@ -7,7 +7,7 @@ Oá!!! Eu sou o Vinícius Figueiredo 👋
 - 🤔 Estou procurando ajuda para conseguir um estágio
 - 📫 viniciuscruzcontato@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Apaixonado por Tecnologia e Startups. Interessado pela área do Desenvolvimento WEB. Tenho muita criatividade. Atualmente estou estudando conteúdos relacionados ao Front-End! 
+- ⚡ Curiosidade: Gosto muito de Tecnologia e Startups. Interessado pela área do Desenvolvimento WEB. Tenho muita criatividade. Atualmente estou estudando conteúdos relacionados ao Front-End! 
 
 
 <div align="center">
