@@ -2,7 +2,7 @@ Oá!!! Eu sou o Vinícius Figueiredo 👋
 
 
 - 🔭 Sou estudante universitário do Mackenzie-Higienópolis, aualmente no 5° semestre, e estou em busca de uma oportunidade de estágio na área da Tecnologia da Informação
-- 🌱 Estou estudando HTML, CSS e JS
+- 🌱 Estou estudando JAVA
 - 👯 Estou procurando colaboorar em projetos e desafios de uma empresa
 - 🤔 Estou procurando ajuda para conseguir um estágio
 - 📫 viniciuscruzcontato@gmail.com
