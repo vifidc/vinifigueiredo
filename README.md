@@ -2,12 +2,12 @@ Oá!!! Eu sou o Vinícius Figueiredo 👋
 
 
 - 🔭 Sou estudante universitário do Mackenzie-Higienópolis, atualmente no 5° semestre, e estou em busca de uma oportunidade de estágio na área da Tecnologia da Informação
-- 🌱 Estou estudando a linguagem JAVA
+- 🌱 Estou estudando Excel e Power BI
 - 👯 Estou procurando colaborar em projetos e desafios de uma empresa
 - 🤔 Estou procurando ajuda para conseguir um estágio
 - 📫 viniciuscruzcontato@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Gosto muito de Tecnologia e Startups. Interessado pela área do BackEnd. Tenho muita criatividade. Atualmente estou estudando conteúdos relacionados ao JAVA! 
+- ⚡ Curiosidade: Gosto muito de Tecnologia e Startups. Interessado pela área de Dados. Tenho muita criatividade. Atualmente estou estudando conteúdos relacionados ao Excel e Power BI! 
 
 
 <div align="center">
