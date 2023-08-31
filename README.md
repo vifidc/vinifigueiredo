@@ -2,7 +2,7 @@ Oá!!! Eu sou o Vinícius Figueiredo 👋
 
 
 - 🔭 Sou estudante universitário do Mackenzie-Higienópolis, atualmente no 5° semestre, e estou em busca de uma oportunidade de estágio na área da Tecnologia da Informação
-- 🌱 Estou estudando Excel e Power BI
+- 🌱 Estou atuando em um projeto de IA na faculdade
 - 👯 Estou procurando colaborar em projetos e desafios de uma empresa
 - 🤔 Estou procurando ajuda para conseguir um estágio
 - 📫 viniciuscruzcontato@gmail.com
